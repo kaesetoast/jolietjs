@@ -1,0 +1,19 @@
+{
+  "name": "jolietjs",
+  "version": "0.0.1",
+  "authors": [
+    "Philipp Nowinski <philipp@nowinski.de>"
+  ],
+  "description": "A simple HTML5 audio player",
+  "main": "dist/joliet.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.0.0"
+  }
+}
