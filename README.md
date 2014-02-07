@@ -1,4 +1,4 @@
-# galry
+# jolietjs
 
 jolietjs is a simple HTML5 audio player
 
