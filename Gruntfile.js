@@ -53,7 +53,7 @@ module.exports = function(grunt) {
                 tasks: ['jshint', 'concat', 'jsbeautifier', 'uglify']
             },
             css: {
-                files: ['src/*scss'],
+                files: ['src/*.scss'],
                 tasks: ['compass']
             },
             options: {
